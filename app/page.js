@@ -45,7 +45,7 @@ export default function Home() {
           <section className="min-h-162.5">
             <nav className="py-5 mb-12 flex justify-between">
               <h6 className=" text-md bg-gradient-to-r from-gray-500 to-red-500 text-white px-4 py-2 border-none rounded-lg font-mono">
-                Developed By Chetan
+                Coded By Chetan
               </h6>
               <ul className="flex items-center">
                 <li>
@@ -68,8 +68,7 @@ export default function Home() {
               </h2>
               <h3 className="font-mono md:text-3xl"> Web Devloper</h3>
               <p className="font-mono text-md leading-8 md:text-xl">
-                Hello there! This is me Chetan, I am a Professional
-                Web-Developer.
+                Hello there! This is me Chetan, I am a Web-Developer.
               </p>
             </div>
             <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20 overflow-hidden md:h-96 md:w-96 drop-shadow-[0_0_10px_rgba(255,255,255,0.8)]">
@@ -83,14 +82,12 @@ export default function Home() {
                 Want to make websites? Then this note is for you :
               </h3>
               <p className="font-mono text-md py-2 leading-5 drop-shadow-[0_0_10px_rgba(255,255,255,0.8)]">
-                Hello there! I make Websites.. If you wanna build your own
-                website you can connect with me by clicking on the social media
-                icons at the bottom of the page.
+                Hello there! Connect with me by clicking the social media icons at the end of the page.
               </p>
             </div>
             <div>
               <h1 className="flex text-3xl font-mono py-10 drop-shadow-[0_0_10px_rgba(255,255,255,0.8)]">
-                My some skills are as Follows:
+                Some of my skills are as Follows:
               </h1>
               <section
                 id="skills"
